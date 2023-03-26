@@ -1,3 +1,5 @@
+**Note** Hyperactyl Has Been Deprecated, Means there will be no further updates And support provided.
+
 ![hyperactyl](https://media.discordapp.net/attachments/1079334341445951568/1079336643275804722/image.png?width=989&height=468)
 
 # Hyperactyl 
